@@ -8,6 +8,8 @@ I currently am working on several different projects and always learning new tec
 🔭 Currently working on a automation script with Python that involves Image processing, Multi-threading and Asynchonous Programming, 
 Problem Solving, and Performance Optimization.
 🌱 Currently discovering and learning new technologies to create innovative applications!
+
+https://www.linkedin.com/in/johnny-zeng-63841a188/
 <!---
 noobiecoderjohn/noobiecoderjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
